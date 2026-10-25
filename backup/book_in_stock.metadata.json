@@ -1,0 +1,1 @@
+{"options":{"viewOn":"books","pipeline":[{"$match":{"stock":{"$gt":{"$numberInt":"0"}}}}]},"indexes":[],"collectionName":"book_in_stock","type":"view"}

@@ -1,0 +1,1 @@
+{"options":{"capped":true,"size":{"$numberInt":"1048576"},"max":{"$numberInt":"1000"}},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"6e2835f569c5413982bb7ffbfaa4e229","collectionName":"book_logs","type":"collection"}

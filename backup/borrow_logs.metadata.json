@@ -1,0 +1,1 @@
+{"options":{"expireAfterSeconds":{"$numberLong":"157680000"},"timeseries":{"timeField":"borrow_date","granularity":"hours","bucketMaxSpanSeconds":{"$numberInt":"2592000"}}},"indexes":[],"collectionName":"borrow_logs","type":"timeseries"}
